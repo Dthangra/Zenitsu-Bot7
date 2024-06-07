@@ -9,9 +9,9 @@ global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
 global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
-global.botname = 'Zenitsu-Bot' //ur bot name
-global.ownernumber = '917029257330' //ur owner number
-global.ownername = '🦄Dream Guy Deepak' //ur owner name
+global.botname = '𝛭𝛥𝛨𝛪𝑇𝛩' //ur bot name
+global.ownernumber = '2250712910321' //ur owner number
+global.ownername = '𝛭𝛥𝛨𝛪𝑇𝛩' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
 global.themeemoji = '🦄'
@@ -21,7 +21,7 @@ global.packname = "Sticker By"
 global.author = "🦄Dream Guy Deepak"
 global.creator = "917029257330@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["917029257330","918348225320"] // Premium User
+global.premium = ["2250712910321","2250712910321"] // Premium User
 global.hituet = 0
 
 //bot sett
